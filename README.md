@@ -1,4 +1,4 @@
-#Instrucao jogos Python
+# Instrucao jogos Python
 
 1. Escreva um programa que simule um jogo de adivinhação de números. O computador escolhe um 
 número aleatório entre 1 e 30, e o jogador (usuário) tem até 5 chances de acertar o número escolhido 
